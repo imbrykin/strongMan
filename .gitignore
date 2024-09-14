@@ -103,3 +103,6 @@ secret_key.txt
 db_key.txt
 #Django static files in production enviromnet
 strongMan/staticfiles/
+
+#RSA key for cert
+strongMan/docker/gateway/swanctl/private
